@@ -1,0 +1,50 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #64a376;
+  }
+  
+  .rodape nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  .rodape nav img{
+    max-width: 10%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .rodape nav a{
+    padding: 5% 0;
+    width: 100%;
+  } 
+  
+  .rodape nav a:hover{
+    background-color: #151313bb;
+  }
+ 
+    .fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+    }
+    #page-container {
+        position:absolute;
+        min-height: 100vh;
+      }
+      
+      #content-wrap {
+        padding-bottom: 2.5rem;    /* altura do rodapé */
+      }
+      
+      #footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 2.5rem;            /* altura do rodapé */
+      }
