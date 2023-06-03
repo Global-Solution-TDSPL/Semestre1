@@ -21,7 +21,7 @@ body {
   nav {
     background: #77caa8;
     font-size: 0;
-    position: relative;
+    position: flex;
       
   }
   
@@ -73,7 +73,7 @@ body {
   }
   .mega-menu a {
     border-bottom: 1px solid #ddd;
-      color: #ddd;
+      color: #4a0cf5;
       display: block;
       padding: 10px 0;
       
