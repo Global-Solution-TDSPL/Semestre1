@@ -28,18 +28,7 @@
     text-align: center;
     padding: 20vh 0;
   }
-  /* vw = View Width
-  vh = View height */
-  
-  
-  /* UTILIZANDO A PSEUDO CLASSE HOVER */
-        .cabecalho a:hover {
-            color: #000000;
-            background-color: #fff;
-  
-        }
-  /* UTILIZANDO A PSEUDO CLASSE HOVER */
-
+ 
 
   * {
     margin: 0;
@@ -48,12 +37,12 @@
    
 }
 
-/*
+/* 
     Código importado do FIGMA
 */
  
 
-.cabecalho > h1{
+/* .cabecalho > h1{
     font-family: 'Inter', sans-serif;
     float: left;
     width: 345px;
@@ -74,20 +63,18 @@
 }
 
 .menu ul li{
-    display: inline;
+    display: flexbox;
     padding: 0px 20px;
-}
+} */
 
-.menu ul li a{
+/* .menu ul li a{
     text-decoration: none;
-    
     font-family: 'Inter', sans-serif;
-        font-style: normal;
-        font-weight: 700;
-        font-size: 40px;
-        line-height: 73px;
-        font-size: 40px;
-    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 73px;
+    font-size: 40px;
     background-color: #64a376;
     text-align: center;
     display: inline-block;
@@ -97,12 +84,9 @@
     border-radius: 0px;
     
     
-}
+} */
 
 
-.conteudo{
-    clear: left;
-}
 
 
 
