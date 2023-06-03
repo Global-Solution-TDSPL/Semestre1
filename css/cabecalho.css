@@ -17,6 +17,7 @@
   .cabecalho img{
     width: 300px;
     max-width: 300px;
+    position:inherit;
   }
   
   .cabecalho a{
@@ -37,57 +38,4 @@
    
 }
 
-/* 
-    Código importado do FIGMA
-*/
- 
 
-/* .cabecalho > h1{
-    font-family: 'Inter', sans-serif;
-    float: left;
-    width: 345px;
-    height: 200px;
-    background-color: #64a376;
-    padding: 65px 20px;
-    font-size: 61px;
-    text-align: center;
-    
-}
-
-.cabecalho>nav {
-    float: right;
-}
-
-.menu ul{
-    list-style: none;
-}
-
-.menu ul li{
-    display: flexbox;
-    padding: 0px 20px;
-} */
-
-/* .menu ul li a{
-    text-decoration: none;
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 73px;
-    font-size: 40px;
-    background-color: #64a376;
-    text-align: center;
-    display: inline-block;
-    padding: 60px 50px;
-    height: 200px;
-    width: 266px;
-    border-radius: 0px;
-    
-    
-} */
-
-
-
-
-
-  

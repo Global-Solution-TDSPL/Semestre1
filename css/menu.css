@@ -27,7 +27,7 @@ body {
   
   nav > ul > li {
     display: inline-block;
-      font-size: 14px;
+      font-size: 20px;
       padding: 0 15px;
       position: relative;
   }
@@ -73,7 +73,7 @@ body {
   }
   .mega-menu a {
     border-bottom: 1px solid #ddd;
-      color: #4a0cf5;
+      color: #1a0a3f;
       display: block;
       padding: 10px 0;
       
