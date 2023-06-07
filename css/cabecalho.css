@@ -15,7 +15,7 @@
   }
   
   .cabecalho img{
-    max-width: 100px;
+    max-width: 150px;
     position: static;
    
   }
@@ -35,6 +35,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    align-items: left;
    
 }
 

@@ -14,14 +14,16 @@
   }
   
   .rodape nav img{
-    max-width: 8%;
+    width: 100px;
     display: block;
-    margin: 0 auto;
+    margin: auto;
   }
   
   .rodape nav a{
-    padding: 1% 0;
-    width: 100%;
+    padding: 50px 10px;
+    width: 50%;
+    height: inherit;
+
   } 
   
   .rodape nav a:hover{
@@ -49,4 +51,14 @@
         bottom: 0;
         width: 100%;
         height: 2.5rem;            /* altura do rodapé */
+      }
+
+      .rodape p {
+        display: block;
+        margin-block-start: 1px;
+        margin-block-end: 1px;
+        margin-inline-start: 0px;
+        margin-inline-end: px;
+        color: #2c2c2c;
+        font-style: Arial, sans-serif;
       }
