@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 0s;
+    padding: 0;
     font-family: sans-serif;
   }
   
@@ -8,8 +8,6 @@ body {
   
   .container {
     margin: auto;
-    width: 1300px;
-    
   }
   
   ul {
@@ -17,13 +15,12 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     list-style: none;
-    
   }
   
   nav {
     background: #77caa8;
     font-size: 0;
-    position: flex;
+    position: relative;
   }
   
   nav > ul > li {
@@ -41,6 +38,7 @@ body {
     transition: all .3s ease;
     flex-direction: row-reverse;
   }
+
   nav > ul > li:hover > a {
     color: #444; 
     border-bottom: 3px solid #444;
@@ -57,7 +55,12 @@ body {
     padding-bottom: 20px;
       
   }
-  .mega-menu h3 {color: #444;}
+  .mega-menu h3 {
+    color: #444;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
   
   .mega-menu .container {
       display: flex;
@@ -66,12 +69,14 @@ body {
   }
   .mega-menu .item {
     flex-grow: 1;
-    margin: 0 16px;
+    margin: 10px 10px;
+    font-size: 10px;
     
       
   }
   .mega-menu .item img {
-      width: 90%;
+      width: 50%;
+      align-items: center;
       
   }
   .mega-menu a {

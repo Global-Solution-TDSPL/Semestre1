@@ -1,21 +1,22 @@
 /* Estilo para o conteúdo de texto */
 
 .conteudo {
-    padding: 25px;
+    padding: 50px;
     background-color: #fff;
     color: #333;
     font-family: Arial, sans-serif;
+    background: #96f09647;
   }
   
   .conteudo h2 {
-    font-size: 25px;
+    font-size: 40px;
     margin-bottom: 10px;
     font-weight: bold;
     color: #333333;
   }
   
   .conteudo p {
-    font-size: 16px;
+    font-size: 20px;
     color: #666666;
     line-height: 1.5;
     margin-bottom: 20px;
