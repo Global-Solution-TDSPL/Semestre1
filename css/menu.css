@@ -20,7 +20,7 @@ body {
   nav {
     background: #77caa8;
     font-size: 0;
-    position: relative;
+    position: flex;
   }
   
   nav > ul > li {
