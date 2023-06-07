@@ -69,13 +69,14 @@ body {
   }
   .mega-menu .item {
     flex-grow: 1;
-    margin: 10px 400px;
+    margin: 10px 10px;
     font-size: 10px;
     
       
   }
   .mega-menu .item img {
-      width: 90%;
+      width: 50%;
+      align-items: center;
       
   }
   .mega-menu a {
