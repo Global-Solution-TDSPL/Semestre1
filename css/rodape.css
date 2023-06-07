@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #64a376;
+    background-color: #77caa8;
   }
   
   .rodape nav{
@@ -14,13 +14,13 @@
   }
   
   .rodape nav img{
-    max-width: 16%;
+    max-width: 8%;
     display: block;
     margin: 0 auto;
   }
   
   .rodape nav a{
-    padding: 5% 0;
+    padding: 1% 0;
     width: 100%;
   } 
   
@@ -36,7 +36,7 @@
     }
     
     #page-container {
-        position:absolute;
+        position: absolute;
         min-height: 100vh;
       }
       
