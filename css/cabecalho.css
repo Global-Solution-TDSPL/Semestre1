@@ -15,9 +15,9 @@
   }
   
   .cabecalho img{
-    /*width: 300px;*/
     max-width: 100px;
     position: static;
+   
   }
   
   .cabecalho a{
