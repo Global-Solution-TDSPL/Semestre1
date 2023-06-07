@@ -8,7 +8,7 @@ body {
   
   .container {
     margin: auto;
-    width: 10000px;
+    width: 1300px;
     
   }
   
@@ -71,12 +71,12 @@ body {
       
   }
   .mega-menu .item img {
-      width: 10%;
+      width: 90%;
       
   }
   .mega-menu a {
     border-bottom: 1px solid #ddd;
-      color: #1a0a3f;
+      color: #444;
       display: block;
       padding: 16px 0;
       
