@@ -9,6 +9,7 @@ body {
   .container {
     margin: auto;
     width: 10000px;
+    
   }
   
   ul {
@@ -16,6 +17,7 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     list-style: none;
+    
   }
   
   nav {
