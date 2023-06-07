@@ -1,4 +1,12 @@
 /* Estilo para o conteúdo de texto */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'FAMILY_NAME';
+  font-style: NORMAL_OR_ITALIC;
+  font-weight: NUMERIC_WEIGHT_VALUE;
+  src: url(FONT_FILE_NAME.woff2) format('woff2');
+  }
 
 .conteudo {
     padding: 50px;
