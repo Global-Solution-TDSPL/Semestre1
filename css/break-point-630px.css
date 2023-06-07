@@ -8,6 +8,7 @@
   .cabecalho nav {
       flex-wrap: nowrap;
       height: auto;
+      flex-direction: row-reverse;
   }
 
   .cabecalho a {

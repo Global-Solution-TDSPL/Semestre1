@@ -9,15 +9,15 @@
   .cabecalho nav{
     display: flex;
     justify-content: space-around;
-    width: 60vw;
+    width: 65vw;
     height: 45vh;
     flex-wrap: wrap;
   }
   
   .cabecalho img{
-    width: 300px;
-    max-width: 300px;
-    position:inherit;
+    /*width: 300px;*/
+    max-width: 100px;
+    position: static;
   }
   
   .cabecalho a{

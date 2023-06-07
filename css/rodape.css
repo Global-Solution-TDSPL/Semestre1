@@ -1,3 +1,4 @@
+
 .rodape{
     display: flex;
     flex-direction: column;
@@ -13,7 +14,7 @@
   }
   
   .rodape nav img{
-    max-width: 10%;
+    max-width: 16%;
     display: block;
     margin: 0 auto;
   }
@@ -33,13 +34,14 @@
     width: 90%;
     text-align: center;
     }
+    
     #page-container {
         position:absolute;
         min-height: 100vh;
       }
       
       #content-wrap {
-        padding-bottom: 2.5rem;    /* altura do rodapé */
+        padding-bottom: 3rem;    /* altura do rodapé */
       }
       
       #footer {
