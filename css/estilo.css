@@ -38,12 +38,9 @@
     font-size: 20px;
     background-color: #55967b;
     text-align: center;
-    display: table-cell;
+    display: inline-block;
     padding: 25px 0px;
     width:250px;
     border-radius: 10px;
 }
 
-.menu ul li{
-    margin: 5px;
-} 
